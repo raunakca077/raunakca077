@@ -12,12 +12,12 @@
 
 ### Languages:
 
-![Languages](https://skillicons.dev/icons?i=javascript,java,c,cpp,cs,bash,css&perline=11)
+![Languages](https://skillicons.dev/icons?i=javascript,java,c,cpp,cs,bash,css,html&perline=11)
 
 
 ### Frameworks, Platforms & Libraries:
 
-![Frameworks, Platforms & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,next,tailwind,bootstrap,postman&perline=11)
+![Frameworks, Platforms & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,next,tailwind,bootstrap,postman,git,ubuntu,vscode&perline=11)
 
 
 ### Databases:
