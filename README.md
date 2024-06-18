@@ -27,7 +27,7 @@
 
 ### Servers & Hosting:
 
-![Servers & Hosting](https://skillicons.dev/icons?i=vercel)
+![Servers & Hosting](https://skillicons.dev/icons?i=vercel,netlify)
 <br/>
 <br/>
 # 📊 GitHub Stats:
