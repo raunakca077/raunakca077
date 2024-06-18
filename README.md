@@ -17,17 +17,17 @@
 
 ### Frameworks, Platforms & Libraries:
 
-![Frameworks, Platforms & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,next,tailwind,bootstrap,postman,socket.io&perline=11)
+![Frameworks, Platforms & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,next,tailwind,bootstrap,postman&perline=11)
 
 
 ### Databases:
 
-![Databases](https://skillicons.dev/icons?i=mongo,mysql,postgres,firebase&perline=11)
+![Databases](https://skillicons.dev/icons?i=mongo,mysql&perline=11)
 
 
 ### Servers & Hosting:
 
-![Servers & Hosting](https://skillicons.dev/icons?i=vercel,heroku,gcp) <img src="https://github.com/AhmarZaidi/AhmarZaidi/assets/71930390/1a091a2c-4b7f-44c1-a249-1d95d9b41ffc" height="47px" style="border-radius: 20%;"></img> <img src="https://github.com/AhmarZaidi/AhmarZaidi/assets/71930390/063f1a42-8b48-4bae-9839-5b87c6a841c2" height="47px" style="border-radius: 20%;"></img>
+![Servers & Hosting](https://skillicons.dev/icons?i=vercel) <img src="https://github.com/AhmarZaidi/AhmarZaidi/assets/71930390/1a091a2c-4b7f-44c1-a249-1d95d9b41ffc" height="47px" style="border-radius: 20%;"></img> <img src="https://github.com/AhmarZaidi/AhmarZaidi/assets/71930390/063f1a42-8b48-4bae-9839-5b87c6a841c2" height="47px" style="border-radius: 20%;"></img>
 
 <br/>
 <br/>
