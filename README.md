@@ -24,7 +24,7 @@
 
 ### Frameworks, Platforms & Libraries:
 
-![Frameworks, Platforms & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,next,tailwind,bootstrap,postman,git,ubuntu,vscode&perline=11,https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png)
+![Frameworks, Platforms & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,next,tailwind,bootstrap,postman,git,ubuntu,vscode&perline=11)(https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png)
 
 
 
