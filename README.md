@@ -32,7 +32,18 @@
 <br/>
 # 📊 GitHub Stats:
 
+<div align="center">
 
+![](https://github-readme-stats.vercel.app/api?username=raunakca077&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakca077&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raunakca077&theme=dark&hide_border=false)
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmarZaidi&theme=2077) -->
+
+</div>
+
+<br/>
+<br/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=raunakca077&show_icons=true&theme=radical">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakca077&layout=compact">
 
