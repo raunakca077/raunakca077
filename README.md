@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 About Me :
 
--👋 Hi, I’m Raunak Chauhan.
+- 👋 Hi, I’m Raunak Chauhan.
 
 - 👀 I’m interested in programming ,developement and all other tech stuff.
 
