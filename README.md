@@ -12,7 +12,7 @@
 
 ### Languages:
 
-![Languages](https://skillicons.dev/icons?i=javascript,java,python,typescript,c,cpp,cs,bash,css,solidity,kotlin&perline=11)
+![Languages](https://skillicons.dev/icons?i=javascript,java,c,cpp,cs,bash,css&perline=11)
 
 
 ### Frameworks, Platforms & Libraries:
