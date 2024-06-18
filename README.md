@@ -1,7 +1,10 @@
 # 💫 About Me:
 -👋 Hi, I’m Raunak Chauhan.
-<br>- 👀 I’m interested in programming ,developement and all other tech stuff.
+
+- 👀 I’m interested in programming ,developement and all other tech stuff.
+
 <br>- 🌱 I’m currently pursuing MCA from NIT Allahabad.
+
 <br>- 📫 Connect with me on LinkedIn via https://www.linkedin.com/in/raunak-chauhan-130b59243/<br>
 
 
