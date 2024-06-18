@@ -17,7 +17,6 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:raunakchauhan22@gmail.com)
 
 <br>
-
 # 💻 Tech Stack:
 
 ### Languages:
