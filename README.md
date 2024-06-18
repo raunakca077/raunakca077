@@ -14,6 +14,7 @@
 [![Codeforces](https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3628695-3029920.png?f=webp&w=51)](https://codeforces.com/profile/raunakchauhan22) 
 [![LeetCode]( https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=50)](https://leetcode.com/u/raunak22/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/rnk22)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/raunakchauhan22)
 
 <br/>
 
