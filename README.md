@@ -9,7 +9,28 @@
 [![LeetCode]](https://leetcode.com/u/raunak22/)
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Languages:
+
+![Languages](https://skillicons.dev/icons?i=javascript,java,python,typescript,c,cpp,cs,bash,css,solidity,kotlin&perline=11)
+
+
+### Frameworks, Platforms & Libraries:
+
+![Frameworks, Platforms & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,next,tailwind,bootstrap,postman,django,remix,docker&perline=11)
+
+
+### Databases:
+
+![Databases](https://skillicons.dev/icons?i=mongo,mysql,postgres,firebase&perline=11)
+
+
+### Servers & Hosting:
+
+![Servers & Hosting](https://skillicons.dev/icons?i=vercel,heroku,gcp) <img src="https://github.com/AhmarZaidi/AhmarZaidi/assets/71930390/1a091a2c-4b7f-44c1-a249-1d95d9b41ffc" height="47px" style="border-radius: 20%;"></img> <img src="https://github.com/AhmarZaidi/AhmarZaidi/assets/71930390/063f1a42-8b48-4bae-9839-5b87c6a841c2" height="47px" style="border-radius: 20%;"></img>
+
+<br/>
+<br/>
 # 📊 GitHub Stats:
 
 
