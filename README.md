@@ -17,7 +17,7 @@
 
 ### Frameworks, Platforms & Libraries:
 
-![Frameworks, Platforms & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,next,tailwind,bootstrap,postman,django,remix,docker&perline=11)
+![Frameworks, Platforms & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,next,tailwind,bootstrap,postman,socket.io&perline=11)
 
 
 ### Databases:
