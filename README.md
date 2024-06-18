@@ -16,7 +16,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/rnk22)
 
 <br/>
-
 # 💻 Tech Stack:
 
 ### Languages:
