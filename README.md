@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently pursuing MCA from NIT Allahabad.
 
-- 📫 Connect with me on LinkedIn via https://www.linkedin.com/in/raunak-chauhan-130b59243/<br>
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/raunak-chauhan-130b59243/)<br>
 
 
 ## 🌐 Socials:
