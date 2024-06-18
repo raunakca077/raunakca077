@@ -10,7 +10,7 @@
 
 
 ## 🌐 Socials:
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/raunakchauhan22) 
+[![Codeforces]([https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white](https://iconscout.com/free-icon/code-forces-3521352))](https://codeforces.com/profile/raunakchauhan22) 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/rnk22)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/raunakchauhan22)
 [![LeetCode]](https://leetcode.com/u/raunak22/)
